@@ -14,6 +14,7 @@
 | [06-ui-client.md](./06-ui-client.md) | UI 与客户端架构 |
 | [07-console-system.md](./07-console-system.md) | Console 后台管理系统 |
 | [08-e2b-integration.md](./08-e2b-integration.md) | E2B 云端运行时集成指南 |
+| [09-cloud-multiuser-guide.md](./09-cloud-multiuser-guide.md) | 云端多用户部署架构指南 |
 
 ## 核心架构图
 
