@@ -13,6 +13,7 @@
 | [05-provider-system.md](./05-provider-system.md) | Provider 系统 |
 | [06-ui-client.md](./06-ui-client.md) | UI 与客户端架构 |
 | [07-console-system.md](./07-console-system.md) | Console 后台管理系统 |
+| [08-e2b-integration.md](./08-e2b-integration.md) | E2B 云端运行时集成指南 |
 
 ## 核心架构图
 
